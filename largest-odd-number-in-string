@@ -1,0 +1,37 @@
+https://leetcode.com/problems/largest-odd-number-in-string/
+
+class Solution {
+
+    /**
+     * Finds the largest odd number as a substring of the given string `num`.
+     * The largest odd number will be the longest prefix of the string that ends with an odd digit.
+     * We can find this by iterating from the end of the string.
+     *
+     *  The string representing a large integer.
+     *  The largest odd number as a string, or an empty string if no such number exists.
+     */
+    public String largestOddNumber(String num) {
+        // Iterate from the last character of the string to the first.
+        // This approach is efficient because the first odd digit we find from the right
+        // will mark the end of the longest possible odd substring.
+        for (int i = num.length() - 1; i >= 0; i--) {
+            char digitChar = num.charAt(i);
+
+            // Convert the character digit to its integer value.
+            // For example, '5' - '0' evaluates to 5.
+            int digit = digitChar - '0';
+
+            // Check if the digit is odd.
+            // An odd digit has a remainder of 1 when divided by 2.
+            if (digit % 2 != 0) {
+                // If an odd digit is found, the substring from the start of the string
+                // up to and including this digit is the largest odd number.
+                return num.substring(0, i + 1);
+            }
+        }
+
+        // If the loop completes without finding any odd digits, it means
+        // the string does not contain any odd numbers.
+        return "";
+    }
+}
