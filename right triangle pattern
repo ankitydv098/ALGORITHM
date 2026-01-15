@@ -13,7 +13,7 @@ public class pattern {
                 System.out.print(" * ");
 
             }
-
+// add new line 
             System.out.println();
 
         }
