@@ -1,8 +1,12 @@
 // right triangle pattern .
+
+
 public class pattern {
     public static void main(String[] args) {
         pattern(5);
     }
+
+// creating function name pattern
     static  void pattern(int n){
         for (int row = 1; row <=n ; row++) {
             for (int col = 1; col <= row; col++) {
