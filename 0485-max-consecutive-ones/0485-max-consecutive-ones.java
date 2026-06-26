@@ -6,11 +6,15 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] == 1) {
                 count++;
-                if (count > maxCount) {   // manual comparison
-                    maxCount = count;
-                }
+                maxCount = Math.max(maxCount, count);
+
+                // OR
+                // if (count > maxCount) {
+                //     maxCount = count;
+                // }
+
             } else {
-                count = 0; // reset streak
+                count = 0; // Reset when 0 is found
             }
         }
 
