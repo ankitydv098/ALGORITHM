@@ -6,9 +6,18 @@ class Solution {
         }
      
         String cleaned = s.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();   
-        String reversed = new StringBuilder(cleaned).reverse().toString();   
-       
-        return cleaned.equals(reversed);
+        int i = 0;
+        int j = cleaned.length() - 1;
+
+        while (i < j) {
+            if (cleaned.charAt(i) != cleaned.charAt(j)) {
+                return false;
+            }
+            i++;
+            j--;
+        }
+
+        return true;
         
         
     }
