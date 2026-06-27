@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ankitydv098/ALGORITHM/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/ankitydv098/ALGORITHM/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/ankitydv098/ALGORITHM/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitydv098/ALGORITHM/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ankitydv098/ALGORITHM/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
