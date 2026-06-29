@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ankitydv098/ALGORITHM/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ankitydv098/ALGORITHM/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitydv098/ALGORITHM/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ankitydv098/ALGORITHM/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/ankitydv098/ALGORITHM/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankitydv098/ALGORITHM/tree/master/0977-squares-of-a-sorted-array) |
@@ -21,6 +22,7 @@
 | [0015-3sum](https://github.com/ankitydv098/ALGORITHM/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ankitydv098/ALGORITHM/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ankitydv098/ALGORITHM/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitydv098/ALGORITHM/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ankitydv098/ALGORITHM/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ankitydv098/ALGORITHM/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ankitydv098/ALGORITHM/tree/master/0680-valid-palindrome-ii) |
@@ -41,6 +43,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitydv098/ALGORITHM/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ankitydv098/ALGORITHM/tree/master/0287-find-the-duplicate-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankitydv098/ALGORITHM/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
