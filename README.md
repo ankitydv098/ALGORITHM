@@ -25,6 +25,7 @@
 | [0088-merge-sorted-array](https://github.com/ankitydv098/ALGORITHM/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ankitydv098/ALGORITHM/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitydv098/ALGORITHM/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/ankitydv098/ALGORITHM/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ankitydv098/ALGORITHM/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ankitydv098/ALGORITHM/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ankitydv098/ALGORITHM/tree/master/0680-valid-palindrome-ii) |
@@ -60,6 +61,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ankitydv098/ALGORITHM/tree/master/0202-happy-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitydv098/ALGORITHM/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ankitydv098/ALGORITHM/tree/master/0680-valid-palindrome-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ankitydv098/ALGORITHM/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
