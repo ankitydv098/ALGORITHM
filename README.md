@@ -42,6 +42,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/ankitydv098/ALGORITHM/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/ankitydv098/ALGORITHM/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ankitydv098/ALGORITHM/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -77,4 +78,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ankitydv098/ALGORITHM/tree/master/0202-happy-number) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/ankitydv098/ALGORITHM/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/ankitydv098/ALGORITHM/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
