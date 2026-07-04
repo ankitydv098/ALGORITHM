@@ -91,4 +91,8 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/ankitydv098/ALGORITHM/tree/master/1603-design-parking-system) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ankitydv098/ALGORITHM/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
