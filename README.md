@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ankitydv098/ALGORITHM/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ankitydv098/ALGORITHM/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/ankitydv098/ALGORITHM/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankitydv098/ALGORITHM/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ankitydv098/ALGORITHM/tree/master/0125-valid-palindrome) |
@@ -94,5 +95,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ankitydv098/ALGORITHM/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ankitydv098/ALGORITHM/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
