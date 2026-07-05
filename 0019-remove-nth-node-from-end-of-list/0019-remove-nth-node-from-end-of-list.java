@@ -6,8 +6,6 @@ class Solution {
 
         dummy.next = head;
 
-
-       
         ListNode slow = dummy;
         ListNode temp = head;
 
@@ -18,16 +16,10 @@ class Solution {
             temp=temp.next;
         }
 
-
-        // fast ko n steps aage bhejo
         for(int i = 0; i <length- n; i++){
 
             slow=slow.next;
         }
-
-
-       
-
 
         // delete node
         slow.next = slow.next.next;
