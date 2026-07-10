@@ -98,9 +98,11 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankitydv098/ALGORITHM/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ankitydv098/ALGORITHM/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/ankitydv098/ALGORITHM/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ankitydv098/ALGORITHM/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankitydv098/ALGORITHM/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/ankitydv098/ALGORITHM/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
