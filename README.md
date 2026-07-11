@@ -8,6 +8,7 @@
 | [0075-sort-colors](https://github.com/ankitydv098/ALGORITHM/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankitydv098/ALGORITHM/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitydv098/ALGORITHM/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/ankitydv098/ALGORITHM/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/ankitydv098/ALGORITHM/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/ankitydv098/ALGORITHM/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankitydv098/ALGORITHM/tree/master/0977-squares-of-a-sorted-array) |
@@ -40,6 +41,7 @@
 | [0015-3sum](https://github.com/ankitydv098/ALGORITHM/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ankitydv098/ALGORITHM/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankitydv098/ALGORITHM/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/ankitydv098/ALGORITHM/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankitydv098/ALGORITHM/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ankitydv098/ALGORITHM/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankitydv098/ALGORITHM/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ankitydv098/ALGORITHM/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/ankitydv098/ALGORITHM/tree/master/0217-contains-duplicate) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ankitydv098/ALGORITHM/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Design
 |  |
