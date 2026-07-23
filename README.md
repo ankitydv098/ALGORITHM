@@ -51,6 +51,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/ankitydv098/ALGORITHM/tree/master/0415-add-strings) |
 | [1603-design-parking-system](https://github.com/ankitydv098/ALGORITHM/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/ankitydv098/ALGORITHM/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ankitydv098/ALGORITHM/tree/master/1929-concatenation-of-array) |
@@ -75,12 +76,14 @@
 | [0002-add-two-numbers](https://github.com/ankitydv098/ALGORITHM/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/ankitydv098/ALGORITHM/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ankitydv098/ALGORITHM/tree/master/0202-happy-number) |
+| [0415-add-strings](https://github.com/ankitydv098/ALGORITHM/tree/master/0415-add-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitydv098/ALGORITHM/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ankitydv098/ALGORITHM/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ankitydv098/ALGORITHM/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/ankitydv098/ALGORITHM/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/ankitydv098/ALGORITHM/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
