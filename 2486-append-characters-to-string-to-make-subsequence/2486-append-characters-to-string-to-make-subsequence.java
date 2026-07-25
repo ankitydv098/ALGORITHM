@@ -4,10 +4,9 @@ class Solution {
         while(i<s.length() && j<t.length()){
             if(s.charAt(i)==t.charAt(j)){
                 j=j+1;
-                i=i+1;
-            } else{
-                i=i+1;
             }
+                i=i+1;
+            
         }
         return t.length()-j;
 
