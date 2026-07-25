@@ -29,6 +29,7 @@
 | [0075-sort-colors](https://github.com/ankitydv098/ALGORITHM/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankitydv098/ALGORITHM/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ankitydv098/ALGORITHM/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/ankitydv098/ALGORITHM/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitydv098/ALGORITHM/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ankitydv098/ALGORITHM/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ankitydv098/ALGORITHM/tree/master/0202-happy-number) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ankitydv098/ALGORITHM/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/ankitydv098/ALGORITHM/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ankitydv098/ALGORITHM/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/ankitydv098/ALGORITHM/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/ankitydv098/ALGORITHM/tree/master/0680-valid-palindrome-ii) |
