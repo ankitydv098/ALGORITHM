@@ -4,8 +4,7 @@ class Solution {
         HashMap<Integer, Integer> map = new HashMap<>();
 
         long sum = 0;
-        long max = 0;
-
+        long ans = 0;
         int left = 0;
 
         for (int right = 0; right < nums.length; right++) {
@@ -13,26 +12,23 @@ class Solution {
             sum += nums[right];
             map.put(nums[right], map.getOrDefault(nums[right], 0) + 1);
 
-            // Keep window size = k
             if (right - left + 1 > k) {
-
                 sum -= nums[left];
 
-                map.put(nums[left], map.get(nums[left]) - 1);
-
-                if (map.get(nums[left]) == 0) {
+                int freq = map.get(nums[left]) - 1;
+                if (freq == 0)
                     map.remove(nums[left]);
-                }
+                else
+                    map.put(nums[left], freq);
 
                 left++;
             }
 
-            // Window size is exactly k
             if (right - left + 1 == k && map.size() == k) {
-                max = Math.max(max, sum);
+                ans = Math.max(ans, sum);
             }
         }
 
-        return max;
+        return ans;
     }
 }
