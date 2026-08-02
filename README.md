@@ -21,6 +21,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/ankitydv098/ALGORITHM/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/ankitydv098/ALGORITHM/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ankitydv098/ALGORITHM/tree/master/1929-concatenation-of-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankitydv098/ALGORITHM/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankitydv098/ALGORITHM/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -111,6 +112,7 @@
 | [0202-happy-number](https://github.com/ankitydv098/ALGORITHM/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ankitydv098/ALGORITHM/tree/master/0217-contains-duplicate) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ankitydv098/ALGORITHM/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankitydv098/ALGORITHM/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Design
 |  |
 | ------- |
@@ -148,4 +150,5 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ankitydv098/ALGORITHM/tree/master/0209-minimum-size-subarray-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankitydv098/ALGORITHM/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
